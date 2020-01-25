@@ -21,5 +21,7 @@ opttime1.csv and opttime2.csv - The output of PractOptCon4IBAparallel.R.
 I welcome and encourage any questions or comments you would like to provide.  Contact me at:
 
 James Peirce (jpeirce@uwlax.edu)
+
 University of Wisconsin - La Crosse
+
 Department of Mathematics & Statistics
