@@ -7,7 +7,7 @@ Swimmer's itch is an emerging disease caused by flatworm parasites that often us
 
 swimitchcontrol.R - Start here! This is the main file.  It contains the commands for all graphs included in our paper.
 
-swimitchfun.R - Yes, this file is fun!! (As long as you love DEs as much as I do) It contains the Forward-backward sweep method with a 4th order Runge-Kutta scheme to solve the state equations and their corresponding adjoint equations. 
+swimitchfun.R - Yes, this file is fun!! (As long as you love DEs as much as I do) It contains the forward-backward sweep method with a 4th order Runge-Kutta scheme to solve the state equations and their corresponding adjoint equations. 
 
 SwimItchPar4IBAparallel.R - Code that applies a genetic algorithm scheme to the minimization process used to approximate the unknown parameters $\beta$, $\chi$, and $k_{\rm B}$. Designed for parallel computation.
 
